@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "Awesomeprojects",
+    "name": "Tic Tac Toe",
     "slug": "Awesomeprojects",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo1.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo2.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,8 +19,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/logo2.png",
+        "backgroundColor": "#000"
       },
       "package": "com.ronitkhajuria.Awesomeprojects"
     },
